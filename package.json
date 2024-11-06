@@ -1,0 +1,23 @@
+{
+  "name": "v59",
+  "version": "0.1.0",
+  "description": "Bildungsstandards Fremdsprachen Sek II 2012",
+  "main": "index.js",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v59.git"
+  },
+  "author": "IQB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v59/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v59#readme",
+  "dependencies": {
+    "@iqb/csv2ttl": "^0.8.2"
+  }
+}

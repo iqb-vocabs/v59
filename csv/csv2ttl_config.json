@@ -1,0 +1,117 @@
+{
+  "id": "2012fFSek2",
+  "title": [
+    {
+      "lang": "de",
+      "value": "Bildungsstandards Fremdsprachen Sek II 2012"
+    }
+  ],
+  "csv_delimiter": ",",
+  "base": "https://w3id.org/iqb/v59",
+  "outDir": "./",
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "vocabularies": [
+    {
+      "id": "f1",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Funktionale kommunikative Kompetenz"
+        }
+      ],
+      "filenameSource": "f1_Funktionale_kommunikative_Kompetenz.csv",
+      "filenameTarget": "f1_Funktionale_kommunikative_Kompetenz.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Am Ende der gymnasialen Oberstufe wird von Schülerinnen und Schülern im Bereich der funktionalen kommunikativen Kompetenz das Niveau B2 des GeR (Englisch: in rezeptiven Teilkompetenzen auch das Niveau C1) erwartet. Sprachlicher Orientierungspunkt sind Standardsprache(n) sowie Register, Varietäten und Akzente, deren Färbung ein Verstehen nicht generell behindert. In den Bildungsstandards werden die Teilkompetenzen der funktionalen kommunikativen Kompetenz nach dem Muster des GeR jeweils getrennt aufgeführt. In der Sprachverwendung kommen die einzelnen Kompetenzen hingegen vorwiegend integrativ zum Tragen. Die Schülerinnen und Schüler bringen situationsangemessen thematisches Wissen und interkulturelle Kompetenz ein. \n\nZu differenziertem kommunikativem Sprachhandeln gehört der angemessene Gebrauch sprachlicher Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthografie – und kommunikativer Strategien. Sprachliche Mittel und kommunikative Strategien haben in allen Kompetenzbereichen dienende Funktion. Die kommunikativen Strategien sind jeweils bei den sprachlichen Teilkompetenzen mitberücksichtigt, die sprachlichen Mittel im Anschluss an die funktionalen kommunikativen Teilkompetenzen dargestellt.\"\""
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Interkulturelle Kompetenz"
+        }
+      ],
+      "filenameSource": "f2_Interkulturelle_Kompetenz.csv",
+      "filenameTarget": "f2_Interkulturelle_Kompetenz.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Die Schülerinnen und Schüler können in direkten und in medial vermittelten interkulturellen Situationen kommunikativ handeln. Dies bezieht sich auf personale Begegnungen sowie das Verstehen, Deuten und Produzieren fremdsprachiger Texte. Die Schülerinnen und Schüler greifen dazu auf ihr interkulturelles kommunikatives Wissen zurück und beachten kulturell geprägte Konventionen. Dabei sind sie in der Lage, eigene Vorstellungen und Erwartungen im Wechselspiel mit den an sie herangetragenen zu reflektieren und die eigene Position zum Ausdruck zu bringen.\n\n Die Schülerinnen und Schüler sind/können\"\""
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Text- und Medienkompetenz"
+        }
+      ],
+      "filenameSource": "f3_Text-_und_Medienkompetenz.csv",
+      "filenameTarget": "f3_Text-_und_Medienkompetenz.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Text- und Medienkompetenz umfasst die Fähigkeit, Texte selbstständig, zielbezogen sowie in ihren historischen und sozialen Kontexten zu verstehen, zu deuten und eine Interpretation zu begründen. Text- und Medienkompetenz schließt überdies die Fähigkeit mit ein, die gewonnenen Erkenntnisse über die Bedingungen und Techniken der Erstellung von Texten zur Produktion eigener Texte unterschiedlicher Textsorten zu nutzen. Alle mündlich, schriftlich und medial vermittelten Produkte, die Schülerinnen und Schüler rezipieren, produzieren oder austauschen, werden als „Text“ verstanden. Der Medienbegriff umfasst alle Mittel und Verfahren der Informationsverarbeitung und verbreitung.\n\nAls komplexe, integrative Kompetenz geht die Text- und Medienkompetenz über die in den zugrunde liegenden funktionalen kommunikativen Kompetenzen definierten Anforderungen hinaus (insbesondere im Vergleich zum Lese- und Hör-/Hörsehverstehen). Dies entspricht dem zentralen Stellenwert von Texten und Medien für alle Zielsetzungen des gymnasialen Oberstufenunterrichts. Die Schülerinnen und Schüler greifen im Sinne des vernetzenden Lernens auf Wissen zurück, das sie in schulischen Lernangeboten und außerhalb der Schule erworben haben, und entwickeln es weiter.\n\nText- und Medienkompetenz ermöglicht das Verstehen und Deuten von kontinuierlichen und diskontinuierlichen –auch audio- und audiovisuellen – Texten in ihren Bezügen und Voraussetzungen. Sie umfasst das Erkennen konventionalisierter, kulturspezifisch geprägter Charakteristika von Texten und Medien, die Verwendung dieser Charakteristik bei der Produktion eigener Texte sowie die Reflektion des individuellen Rezeptions- und Produktionsprozesses.\"\""
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Sprachbewusstheit"
+        }
+      ],
+      "filenameSource": "f4_Sprachbewusstheit.csv",
+      "filenameTarget": "f4_Sprachbewusstheit.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Sprachbewusstheit bedeutet Sensibilität für und Nachdenken über Sprache und sprachlich vermittelte Kommunikation. Sie ermöglicht Schülerinnen und Schülern, die Ausdrucksmittel und Varianten einer Sprache bewusst zu nutzen; dies schließt eine Sensibilität für Stil und Register sowie für kulturell bestimmte Formen des Sprachgebrauchs, z. B. Formen der Höflichkeit, ein. Die Reflexion über Sprache richtet sich auch auf die Rolle und Verwendung von Sprachen in der Welt, z. B. im Kontext kultureller und politischer Einflüsse. Da Sprache stets soziokulturell geprägt ist, führt Sprachbewusstheit darüber hinaus zu einer sensiblen Gestaltung der sprachlich-diskursiven Beziehungen mit anderen Menschen. Damit leistet die Entwicklung von Sprachbewusstheit einen wichtigen Beitrag zum Aufbau fremdsprachiger Kompetenz und über diese hinaus zum interkulturellen Lernen sowie zur Persönlichkeitsbildung.\n\nDie Schülerinnen und Schüler können ihre Einsichten in Struktur und Gebrauch der Zielsprache und anderer Sprachen nutzen, um mündliche und schriftliche Kommunikationsprozesse sicher zu bewältigen. \"\""
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Sprachlernkompetenz"
+        }
+      ],
+      "filenameSource": "f5_Sprachlernkompetenz.csv",
+      "filenameTarget": "f5_Sprachlernkompetenz.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Sprachlernkompetenz beinhaltet die Fähigkeit und Bereitschaft, das eigene Sprachenlernen selbstständig zu analysieren und bewusst zu gestalten, wobei die Schülerinnen und Schüler auf ihr mehrsprachiges Wissen und auf individuelle Sprachlernerfahrungen zurückgreifen.\n\nSprachlernkompetenz zeigt sich erstens im Verfügen über sprachbezogene Lernmethoden und in der Beherrschung daraus abgeleiteter, konkreter Strategien. Sie zeigt sich zweitens in der Beobachtung und Evaluation der eigenen Sprachlernmotivation, -prozesse und -ergebnisse sowie drittens in der Bereitschaft und Fähigkeit, begründete Konsequenzen daraus zu ziehen.\n\nSprachbewusstheit und Sprachlernkompetenz haben überdies einen eigenen Bildungswert, sowohl im Hinblick auf die Persönlichkeitsbildung der jungen Erwachsenen als auch auf Berufs- und Wissenschaftspropädeutik. \n\nDie Schülerinnen und Schüler können ihre sprachlichen Kompetenzen und ihre vorhandene Mehrsprachigkeit (Erstsprache, ggf. Zweitsprache, Fremdsprachen) selbstständig und reflektiert erweitern. Dabei nutzen sie zielgerichtet ein breites Repertoire von Strategien und Techniken des reflexiven Sprachenlernens.\"\""
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Anforderungsbereiche"
+        }
+      ],
+      "filenameSource": "f6_Anforderungsbereiche.csv",
+      "filenameTarget": "f6_Anforderungsbereiche.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Die Prüfungsaufgabe ist so zu stellen, dass sie Leistungen in den folgenden drei Anforderungsbereichen erfordert:\"\""
+        }
+      ]
+    }
+    ]
+}
